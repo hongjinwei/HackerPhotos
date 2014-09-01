@@ -4,3 +4,4 @@ lib/
 *.pyc
 *.swp
 .Python*
+.idea
